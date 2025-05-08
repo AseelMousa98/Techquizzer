@@ -1,0 +1,5764 @@
+{
+  "questions": [
+    {
+      "id": 4000,
+      "question": "What does HTML stand for? (Q4000)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "HyperText Markup Language",
+        "answer_b": "HighText Machine Language",
+        "answer_c": "HyperTool Multi Language",
+        "answer_d": "HyperText Model Language",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "HTML stands for HyperText Markup Language, the standard language for creating web pages.",
+      "tip": "Focus on HTML's purpose and core concepts.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4001,
+      "question": "Which tag is used to create a paragraph in HTML? (Q4001)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<p>",
+        "answer_b": "<div>",
+        "answer_c": "<span>",
+        "answer_d": "<para>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <p> tag defines a paragraph in HTML.",
+      "tip": "Focus on common HTML tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4002,
+      "question": "What is the correct HTML element for the largest heading? (Q4002)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<h1>",
+        "answer_b": "<h6>",
+        "answer_c": "<heading>",
+        "answer_d": "<head>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <h1> tag is used for the largest heading in HTML.",
+      "tip": "Focus on HTML heading tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4003,
+      "question": "Which HTML tag is used to define an unordered list? (Q4003)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<ul>",
+        "answer_b": "<ol>",
+        "answer_c": "<li>",
+        "answer_d": "<list>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <ul> tag defines an unordered list in HTML.",
+      "tip": "Focus on HTML list tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4004,
+      "question": "What is the purpose of the <br> tag in HTML? (Q4004)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Line break",
+        "answer_b": "Bold text",
+        "answer_c": "Italic text",
+        "answer_d": "New paragraph",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <br> tag inserts a line break in HTML.",
+      "tip": "Focus on HTML formatting tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4005,
+      "question": "Which attribute specifies the URL of an image in an <img> tag? (Q4005)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "src",
+        "answer_b": "href",
+        "answer_c": "alt",
+        "answer_d": "link",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The src attribute specifies the image URL in an <img> tag.",
+      "tip": "Focus on HTML attributes.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4006,
+      "question": "What is the correct HTML tag for inserting a hyperlink? (Q4006)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<a>",
+        "answer_b": "<link>",
+        "answer_c": "<href>",
+        "answer_d": "<url>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <a> tag is used to create a hyperlink in HTML.",
+      "tip": "Focus on HTML linking tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4007,
+      "question": "Which HTML element is used to define the title of a document? (Q4007)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<title>",
+        "answer_b": "<head>",
+        "answer_c": "<meta>",
+        "answer_d": "<header>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <title> tag defines the document's title in HTML.",
+      "tip": "Focus on HTML metadata tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4008,
+      "question": "What does the <b> tag do in HTML? (Q4008)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Makes text bold",
+        "answer_b": "Makes text italic",
+        "answer_c": "Underlines text",
+        "answer_d": "Highlights text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <b> tag makes text bold in HTML.",
+      "tip": "Focus on HTML text formatting tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4009,
+      "question": "Which tag is used to create a table row in HTML? (Q4009)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<tr>",
+        "answer_b": "<td>",
+        "answer_c": "<th>",
+        "answer_d": "<table>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <tr> tag defines a table row in HTML.",
+      "tip": "Focus on HTML table tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4010,
+      "question": "Which HTML attribute is used to define inline CSS styles? (Q4010)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "style",
+        "answer_b": "class",
+        "answer_c": "id",
+        "answer_d": "css",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The style attribute is used to define inline CSS styles in HTML.",
+      "tip": "Focus on HTML and CSS integration.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4011,
+      "question": "What is the purpose of the HTML <meta> tag? (Q4011)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Provides metadata about the document",
+        "answer_b": "Defines a paragraph",
+        "answer_c": "Creates a hyperlink",
+        "answer_d": "Inserts an image",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <meta> tag provides metadata such as character set or viewport settings.",
+      "tip": "Focus on HTML metadata.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4012,
+      "question": "Which HTML element is used to group inline elements? (Q4012)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<span>",
+        "answer_b": "<div>",
+        "answer_c": "<section>",
+        "answer_d": "<article>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <span> tag is used to group inline elements in HTML.",
+      "tip": "Focus on inline vs block elements.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4013,
+      "question": "What is the default value of the 'method' attribute in an HTML form? (Q4013)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "GET",
+        "answer_b": "POST",
+        "answer_c": "PUT",
+        "answer_d": "DELETE",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The default value of the 'method' attribute in a form is GET.",
+      "tip": "Focus on HTML form attributes.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4014,
+      "question": "Which HTML tag is used to define a footer for a document or section? (Q4014)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<footer>",
+        "answer_b": "<bottom>",
+        "answer_c": "<end>",
+        "answer_d": "<base>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <footer> tag defines a footer for a document or section.",
+      "tip": "Focus on HTML semantic tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4015,
+      "question": "What is the purpose of the 'alt' attribute in an <img> tag? (Q4015)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Alternative text for the image",
+        "answer_b": "Image source URL",
+        "answer_c": "Image alignment",
+        "answer_d": "Image caption",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'alt' attribute provides alternative text for an image if it cannot be displayed.",
+      "tip": "Focus on accessibility in HTML.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4016,
+      "question": "Which HTML element is used to embed audio content? (Q4016)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<audio>",
+        "answer_b": "<sound>",
+        "answer_c": "<media>",
+        "answer_d": "<track>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <audio> tag is used to embed audio content in HTML.",
+      "tip": "Focus on HTML multimedia tags.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4017,
+      "question": "What does the HTML <canvas> element do? (Q4017)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Draws graphics via JavaScript",
+        "answer_b": "Embeds video content",
+        "answer_c": "Creates a table",
+        "answer_d": "Defines a form",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <canvas> element is used to draw graphics via JavaScript.",
+      "tip": "Focus on HTML5 features.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4018,
+      "question": "Which attribute is used to make an input field required in a form? (Q4018)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "required",
+        "answer_b": "mandatory",
+        "answer_c": "validate",
+        "answer_d": "must",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'required' attribute makes an input field mandatory in a form.",
+      "tip": "Focus on HTML form validation.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4019,
+      "question": "What is the purpose of the HTML <nav> element? (Q4019)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Defines navigation links",
+        "answer_b": "Creates a header",
+        "answer_c": "Groups content",
+        "answer_d": "Embeds scripts",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <nav> element defines a set of navigation links.",
+      "tip": "Focus on HTML semantic elements.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4020,
+      "question": "Which HTML attribute specifies that an input field must match a regular expression pattern? (Q4020)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "pattern",
+        "answer_b": "regex",
+        "answer_c": "match",
+        "answer_d": "validate",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'pattern' attribute specifies a regular expression for input validation.",
+      "tip": "Focus on HTML form validation.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4021,
+      "question": "What is the purpose of the HTML <datalist> element? (Q4021)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Provides autocomplete options for input",
+        "answer_b": "Defines a data table",
+        "answer_c": "Groups form elements",
+        "answer_d": "Embeds external data",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <datalist> element provides autocomplete options for an input field.",
+      "tip": "Focus on HTML5 form elements.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4022,
+      "question": "Which HTML element is used to define a client-side image map? (Q4022)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<map>",
+        "answer_b": "<area>",
+        "answer_c": "<img>",
+        "answer_d": "<coords>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <map> element defines a client-side image map in HTML.",
+      "tip": "Focus on HTML image mapping.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4023,
+      "question": "What does the 'sandbox' attribute do when applied to an <iframe>? (Q4023)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Restricts iframe content",
+        "answer_b": "Expands iframe size",
+        "answer_c": "Enables full-screen mode",
+        "answer_d": "Adds a border",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'sandbox' attribute restricts the content of an iframe for security.",
+      "tip": "Focus on HTML security features.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4024,
+      "question": "Which HTML attribute is used to preload video content? (Q4024)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "preload",
+        "answer_b": "autoplay",
+        "answer_c": "buffer",
+        "answer_d": "load",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'preload' attribute specifies how video content should be loaded.",
+      "tip": "Focus on HTML multimedia attributes.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4025,
+      "question": "What is the purpose of the HTML <details> element? (Q4025)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Creates a collapsible section",
+        "answer_b": "Defines a table",
+        "answer_c": "Embeds a script",
+        "answer_d": "Groups links",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <details> element creates a collapsible section in HTML.",
+      "tip": "Focus on HTML5 interactive elements.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4026,
+      "question": "Which HTML attribute specifies the relationship between the current document and a linked resource? (Q4026)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "rel",
+        "answer_b": "href",
+        "answer_c": "link",
+        "answer_d": "type",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'rel' attribute specifies the relationship to a linked resource.",
+      "tip": "Focus on HTML linking attributes.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4027,
+      "question": "What does the HTML <template> element do? (Q4027)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Holds reusable content",
+        "answer_b": "Defines a form",
+        "answer_c": "Embeds audio",
+        "answer_d": "Creates a table",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <template> element holds reusable content that can be cloned.",
+      "tip": "Focus on HTML5 features.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4028,
+      "question": "Which HTML element is used to define ruby annotations for East Asian typography? (Q4028)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "<ruby>",
+        "answer_b": "<rt>",
+        "answer_c": "<rp>",
+        "answer_d": "<r>",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The <ruby> element is used for ruby annotations in HTML.",
+      "tip": "Focus on HTML typography features.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4029,
+      "question": "What is the purpose of the 'contenteditable' attribute in HTML? (Q4029)",
+      "description": "A question to test your knowledge in HTML.",
+      "answers": {
+        "answer_a": "Allows editing of element content",
+        "answer_b": "Disables element interaction",
+        "answer_c": "Hides element content",
+        "answer_d": "Locks element position",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'contenteditable' attribute allows users to edit element content.",
+      "tip": "Focus on HTML interactivity.",
+      "tags": [
+        {
+          "name": "html"
+        }
+      ],
+      "category": "HTML",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4030,
+      "question": "What does CSS stand for? (Q4030)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Cascading Style Sheets",
+        "answer_b": "Creative Style System",
+        "answer_c": "Compact Style Syntax",
+        "answer_d": "Cascading Script Sheets",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "CSS stands for Cascading Style Sheets, used for styling web pages.",
+      "tip": "Focus on CSS basics.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4031,
+      "question": "How do you select an element with id 'myId' in CSS? (Q4031)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "#myId",
+        "answer_b": ".myId",
+        "answer_c": "myId",
+        "answer_d": "*myId",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The #myId selector targets an element with the specified id.",
+      "tip": "Focus on CSS selectors.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4032,
+      "question": "Which CSS property changes the text color of an element? (Q4032)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "color",
+        "answer_b": "text-color",
+        "answer_c": "font-color",
+        "answer_d": "style-color",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The color property sets the text color of an element.",
+      "tip": "Focus on CSS text properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4033,
+      "question": "What is the default value of the 'position' property in CSS? (Q4033)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "static",
+        "answer_b": "relative",
+        "answer_c": "absolute",
+        "answer_d": "fixed",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The default value of the 'position' property is static.",
+      "tip": "Focus on CSS positioning.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4034,
+      "question": "Which CSS property controls the size of text? (Q4034)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "font-size",
+        "answer_b": "text-size",
+        "answer_c": "size",
+        "answer_d": "font-style",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The font-size property controls the size of text.",
+      "tip": "Focus on CSS text properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4035,
+      "question": "How do you apply a CSS style to all <p> elements? (Q4035)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "p { }",
+        "answer_b": ".p { }",
+        "answer_c": "#p { }",
+        "answer_d": "*p { }",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The p { } selector applies styles to all <p> elements.",
+      "tip": "Focus on CSS element selectors.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4036,
+      "question": "Which CSS property is used to add space between elements? (Q4036)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "margin",
+        "answer_b": "padding",
+        "answer_c": "border",
+        "answer_d": "spacing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The margin property adds space outside an element.",
+      "tip": "Focus on CSS box model.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4037,
+      "question": "What does the CSS 'display: none' property do? (Q4037)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Hides an element",
+        "answer_b": "Shows an element",
+        "answer_c": "Centers an element",
+        "answer_d": "Rotates an element",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The display: none property hides an element from the page.",
+      "tip": "Focus on CSS display properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4038,
+      "question": "Which CSS property is used to make text bold? (Q4038)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "font-weight",
+        "answer_b": "text-style",
+        "answer_c": "font-bold",
+        "answer_d": "weight",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The font-weight property is used to make text bold.",
+      "tip": "Focus on CSS text properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4039,
+      "question": "How do you center text horizontally in CSS? (Q4039)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "text-align: center",
+        "answer_b": "align: center",
+        "answer_c": "center: text",
+        "answer_d": "text: center",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The text-align: center property centers text horizontally.",
+      "tip": "Focus on CSS text alignment.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4040,
+      "question": "Which CSS property is used to create a flexbox layout? (Q4040)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "display: flex",
+        "answer_b": "display: grid",
+        "answer_c": "display: block",
+        "answer_d": "display: inline",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The display: flex property creates a flexbox layout.",
+      "tip": "Focus on CSS layout properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4041,
+      "question": "What does the CSS 'box-sizing: border-box' property do? (Q4041)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Includes padding and border in width",
+        "answer_b": "Excludes padding from width",
+        "answer_c": "Sets fixed width",
+        "answer_d": "Removes borders",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The box-sizing: border-box includes padding and border in an element's width.",
+      "tip": "Focus on CSS box model.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4042,
+      "question": "Which CSS pseudo-class selects the first child of its parent? (Q4042)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": ":first-child",
+        "answer_b": ":last-child",
+        "answer_c": ":nth-child",
+        "answer_d": ":only-child",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The :first-child pseudo-class selects the first child of its parent.",
+      "tip": "Focus on CSS pseudo-classes.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4043,
+      "question": "What is the purpose of the CSS 'z-index' property? (Q4043)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Controls stacking order",
+        "answer_b": "Sets element width",
+        "answer_c": "Adjusts transparency",
+        "answer_d": "Changes font size",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The z-index property controls the stacking order of elements.",
+      "tip": "Focus on CSS positioning.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4044,
+      "question": "Which CSS property is used to create rounded corners? (Q4044)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "border-radius",
+        "answer_b": "corner-radius",
+        "answer_c": "border-style",
+        "answer_d": "curve",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The border-radius property creates rounded corners for elements.",
+      "tip": "Focus on CSS border properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4045,
+      "question": "What does the CSS 'float' property do? (Q4045)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Positions elements left or right",
+        "answer_b": "Centers elements",
+        "answer_c": "Hides elements",
+        "answer_d": "Rotates elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The float property positions elements to the left or right of their container.",
+      "tip": "Focus on CSS layout properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4046,
+      "question": "Which CSS property defines the space between the content and its border? (Q4046)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "padding",
+        "answer_b": "margin",
+        "answer_c": "border",
+        "answer_d": "spacing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The padding property defines the space between content and its border.",
+      "tip": "Focus on CSS box model.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4047,
+      "question": "What is the purpose of the CSS 'transition' property? (Q4047)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Animates property changes",
+        "answer_b": "Sets element position",
+        "answer_c": "Changes text color",
+        "answer_d": "Hides elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The transition property animates changes to CSS properties.",
+      "tip": "Focus on CSS animations.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4048,
+      "question": "Which CSS selector targets elements with a specific class? (Q4048)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": ".className",
+        "answer_b": "#className",
+        "answer_c cucu": "className",
+        "answer_d": "*className",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The .className selector targets elements with the specified class.",
+      "tip": "Focus on CSS selectors.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4049,
+      "question": "What does the CSS 'opacity' property control? (Q4049)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Element transparency",
+        "answer_b": "Element size",
+        "answer_c": "Text alignment",
+        "answer_d": "Border thickness",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The opacity property controls the transparency of an element.",
+      "tip": "Focus on CSS visual properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4050,
+      "question": "Which CSS function is used to define custom properties? (Q4050)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "var()",
+        "answer_b": "calc()",
+        "answer_c": "attr()",
+        "answer_d": "url()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The var() function is used to access custom CSS properties.",
+      "tip": "Focus on CSS custom properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4051,
+      "question": "What does the CSS 'clip-path' property do? (Q4051)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Clips an element to a shape",
+        "answer_b": "Rotates an element",
+        "answer_c": "Scales an element",
+        "answer_d": "Hides an element",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The clip-path property clips an element to a specific shape.",
+      "tip": "Focus on CSS advanced properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4052,
+      "question": "Which CSS property is used to create a grid layout? (Q4052)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "display: grid",
+        "answer_b": "display: flex",
+        "answer_c": "display: block",
+        "answer_d": "display: inline",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The display: grid property creates a grid layout.",
+      "tip": "Focus on CSS grid layouts.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4053,
+      "question": "What is the purpose of the CSS 'will-change' property? (Q4053)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Optimizes animations",
+        "answer_b": "Changes element size",
+        "answer_c": "Sets text color",
+        "answer_d": "Hides elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The will-change property optimizes animations by hinting at changes.",
+      "tip": "Focus on CSS performance.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4054,
+      "question": "Which CSS pseudo-element styles the first letter of an element? (Q4054)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "::first-letter",
+        "answer_b": "::first-line",
+        "answer_c": "::before",
+        "answer_d": "::after",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The ::first-letter pseudo-element styles the first letter of an element.",
+      "tip": "Focus on CSS pseudo-elements.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4055,
+      "question": "What does the CSS 'object-fit' property do? (Q4055)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Controls image/video scaling",
+        "answer_b": "Sets element position",
+        "answer_c": "Changes text alignment",
+        "answer_d": "Adjusts opacity",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The object-fit property controls how an image or video is scaled.",
+      "tip": "Focus on CSS media properties.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4056,
+      "question": "Which CSS property specifies the stacking context of an element? (Q4056)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "z-index",
+        "answer_b": "position",
+        "answer_c": "display",
+        "answer_d": "overflow",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The z-index property specifies the stacking context of an element.",
+      "tip": "Focus on CSS stacking.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4057,
+      "question": "What is the purpose of the CSS 'counter-increment' property? (Q4057)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Increments a counter",
+        "answer_b": "Sets element width",
+        "answer_c": "Changes font size",
+        "answer_d": "Hides elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The counter-increment property increments a CSS counter.",
+      "tip": "Focus on CSS counters.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4058,
+      "question": "Which CSS property defines the blending mode of an element? (Q4058)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "mix-blend-mode",
+        "answer_b": "blend-mode",
+        "answer_c": "filter",
+        "answer_d": "opacity",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The mix-blend-mode property defines how an element blends with its background.",
+      "tip": "Focus on CSS visual effects.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4059,
+      "question": "What does the CSS 'scroll-behavior' property do? (Q4059)",
+      "description": "A question to test your knowledge in CSS.",
+      "answers": {
+        "answer_a": "Controls smooth scrolling",
+        "answer_b": "Sets scroll position",
+        "answer_c": "Hides scrollbars",
+        "answer_d": "Disables scrolling",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The scroll-behavior property controls smooth scrolling for an element.",
+      "tip": "Focus on CSS scrolling.",
+      "tags": [
+        {
+          "name": "css"
+        }
+      ],
+      "category": "CSS",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4060,
+      "question": "What is React? (Q4060)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "A JavaScript library for building UIs",
+        "answer_b": "A CSS framework",
+        "answer_c": "A backend framework",
+        "answer_d": "A database tool",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "React is a JavaScript library for building user interfaces.",
+      "tip": "Focus on React's purpose.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4061,
+      "question": "What is a React component? (Q4061)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "A reusable piece of UI",
+        "answer_b": "A CSS style",
+        "answer_c": "A database query",
+        "answer_d": "A server endpoint",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "A React component is a reusable piece of user interface.",
+      "tip": "Focus on React components.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4062,
+      "question": "Which method is used to render a React component? (Q4062)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "render()",
+        "answer_b": "display()",
+        "answer_c": "show()",
+        "answer_d": "paint()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The render() method is used to render a React component.",
+      "tip": "Focus on React rendering.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4063,
+      "question": "What is JSX in React? (Q4063)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "A syntax extension for JavaScript",
+        "answer_b": "A CSS preprocessor",
+        "answer_c": "A database schema",
+        "answer_d": "A testing tool",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "JSX is a syntax extension for JavaScript used in React.",
+      "tip": "Focus on React JSX.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4064,
+      "question": "How do you create a functional component in React? (Q4064)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "function MyComponent() {}",
+        "answer_b": "class MyComponent {}",
+        "answer_c": "const MyComponent = class {}",
+        "answer_d": "component MyComponent() {}",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "A functional component is created using a JavaScript function.",
+      "tip": "Focus on React functional components.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4065,
+      "question": "What is the purpose of props in React? (Q4065)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Pass data to components",
+        "answer_b": "Store state",
+        "answer_c": "Define CSS styles",
+        "answer_d": "Handle events",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Props are used to pass data to React components.",
+      "tip": "Focus on React props.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4066,
+      "question": "Which React hook is used to manage state? (Q4066)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "useState",
+        "answer_b": "useEffect",
+        "answer_c": "useContext",
+        "answer_d": "useReducer",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useState hook is used to manage state in functional components.",
+      "tip": "Focus on React hooks.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4067,
+      "question": "How do you import React in a file? (Q4067)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "import React from 'react'",
+        "answer_b": "import React from 'node'",
+        "answer_c": "import React from 'js'",
+        "answer_d": "import React from 'lib'",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "React is imported using import React from 'react'.",
+      "tip": "Focus on React imports.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4068,
+      "question": "What is the purpose of the ReactDOM.render method? (Q4068)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Renders a component to the DOM",
+        "answer_b": "Creates a component",
+        "answer_c": "Updates state",
+        "answer_d": "Handles events",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "ReactDOM.render renders a component to the DOM.",
+      "tip": "Focus on React rendering.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4069,
+      "question": "What is a React fragment? (Q4069)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "A wrapper for multiple elements",
+        "answer_b": "A state container",
+        "answer_c": "A CSS class",
+        "answer_d": "An event handler",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "A React fragment is a wrapper for multiple elements without adding extra DOM nodes.",
+      "tip": "Focus on React JSX.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4070,
+      "question": "Which React hook is used to handle side effects? (Q4070)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "useEffect",
+        "answer_b": "useState",
+        "answer_c": "useContext",
+        "answer_d": "useMemo",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useEffect hook handles side effects in functional components.",
+      "tip": "Focus on React hooks.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4071,
+      "question": "What does the useRef hook do in React? (Q4071)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "References a DOM element or value",
+        "answer_b": "Manages state",
+        "answer_c": "Handles context",
+        "answer_d": "Memoizes values",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useRef hook references a DOM element or a value that persists across renders.",
+      "tip": "Focus on React hooks.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4072,
+      "question": "How do you conditionally render a component in React? (Q4072)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Using && or ternary operator",
+        "answer_b": "Using if-else in JSX",
+        "answer_c": "Using switch in JSX",
+        "answer_d": "Using loops in JSX",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Conditional rendering in React is done using && or ternary operators.",
+      "tip": "Focus on React JSX.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4073,
+      "question": "What is the purpose of the useContext hook? (Q4073)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Accesses context values",
+        "answer_b": "Manages state",
+        "answer_c": "Handles effects",
+        "answer_d": "Memoizes functions",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useContext hook accesses values from a React context.",
+      "tip": "Focus on React context.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4074,
+      "question": "Which method is used to update state in a class component? (Q4074)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "setState()",
+        "answer_b": "updateState()",
+        "answer_c": "changeState()",
+        "answer_d": "modifyState()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The setState() method updates state in a class component.",
+      "tip": "Focus on React class components.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4075,
+      "question": "What does the useMemo hook do in React? (Q4075)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Memoizes expensive calculations",
+        "answer_b": "Handles side effects",
+        "answer_c": "Manages state",
+        "answer_d": "References DOM elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useMemo hook memoizes expensive calculations to optimize performance.",
+      "tip": "Focus on React performance.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4076,
+      "question": "How do you handle events in React? (Q4076)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Using onClick, onChange, etc.",
+        "answer_b": "Using addEventListener",
+        "answer_c": "Using bindEvent",
+        "answer_d": "Using attachEvent",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Events in React are handled using onClick, onChange, etc.",
+      "tip": "Focus on React event handling.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4077,
+      "question": "What is the purpose of the React key prop? (Q4077)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Uniquely identifies elements in a list",
+        "answer_b": "Sets component state",
+        "answer_c": "Defines CSS styles",
+        "answer_d": "Handles routing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The key prop uniquely identifies elements in a list for efficient rendering.",
+      "tip": "Focus on React list rendering.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4078,
+      "question": "Which lifecycle method runs after a component is mounted? (Q4078)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "componentDidMount",
+        "answer_b": "componentWillMount",
+        "answer_c": "componentDidUpdate",
+        "answer_d": "componentWillUnmount",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The componentDidMount method runs after a component is mounted.",
+      "tip": "Focus on React lifecycle methods.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4079,
+      "question": "What is the purpose of the useCallback hook? (Q4079)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Memoizes functions",
+        "answer_b": "Manages state",
+        "answer_c": "Handles effects",
+        "answer_d": "References DOM elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useCallback hook memoizes functions to prevent unnecessary re-renders.",
+      "tip": "Focus on React performance.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4080,
+      "question": "What is the purpose of React's StrictMode? (Q4080)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Identifies unsafe lifecycle methods",
+        "answer_b": "Optimizes performance",
+        "answer_c": "Handles routing",
+        "answer_d": "Manages state",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "StrictMode identifies unsafe lifecycle methods and other issues.",
+      "tip": "Focus on React debugging.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4081,
+      "question": "How does React's Concurrent Rendering improve performance? (Q4081)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Prioritizes urgent updates",
+        "answer_b": "Removes all updates",
+        "answer_c": "Delays all updates",
+        "answer_d": "Blocks rendering",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Concurrent Rendering prioritizes urgent updates for better performance.",
+      "tip": "Focus on React performance.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4082,
+      "question": "What is the purpose of the useReducer hook? (Q4082)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Manages complex state logic",
+        "answer_b": "Handles side effects",
+        "answer_c": "Memoizes values",
+        "answer_d": "References DOM elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useReducer hook manages complex state logic in React.",
+      "tip": "Focus on React state management.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4083,
+      "question": "Which React feature allows components to share logic without render props? (Q4083)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Custom Hooks",
+        "answer_b": "Higher-Order Components",
+        "answer_c": "Render Props",
+        "answer_d": "Context API",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Custom Hooks allow components to share logic without render props.",
+      "tip": "Focus on React hooks.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4084,
+      "question": "What does the React Profiler API do? (Q4084)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Measures component performance",
+        "answer_b": "Handles state",
+        "answer_c": "Manages routing",
+        "answer_d": "Optimizes CSS",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The React Profiler API measures component performance for optimization.",
+      "tip": "Focus on React debugging.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4085,
+      "question": "How do you optimize a React app with code splitting? (Q4085)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Using React.lazy and Suspense",
+        "answer_b": "Using useEffect",
+        "answer_c": "Using useState",
+        "answer_d": "Using useRef",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Code splitting in React is done using React.lazy and Suspense.",
+      "tip": "Focus on React performance.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4086,
+      "question": "What is the purpose of the useImperativeHandle hook? (Q4086)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Customizes ref behavior",
+        "answer_b": "Manages state",
+        "answer_c": "Handles effects",
+        "answer_d": "Memoizes values",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useImperativeHandle hook customizes the ref behavior exposed to parent components.",
+      "tip": "Focus on React refs.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4087,
+      "question": "What is the purpose of the useDeferredValue hook in React? (Q4087)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Defers rendering of non-urgent updates",
+        "answer_b": "Manages complex state logic",
+        "answer_c": "Memoizes expensive calculations",
+        "answer_d": "Customizes ref behavior",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useDeferredValue hook defers rendering of non-urgent updates to improve performance by prioritizing critical updates.",
+      "tip": "Focus on React Concurrent Rendering.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4088,
+      "question": "How does the useTransition hook enhance React applications? (Q4088)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Manages state transitions for smoother UI updates",
+        "answer_b": "Handles side effects in components",
+        "answer_c": "References DOM elements",
+        "answer_d": "Optimizes CSS animations",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The useTransition hook allows marking state updates as non-urgent, enabling smoother UI transitions by keeping the UI responsive during heavy updates.",
+      "tip": "Focus on React Concurrent Rendering features.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4089,
+      "question": "What is the role of the startTransition function in React? (Q4089)",
+      "description": "A question to test your knowledge in React.",
+      "answers": {
+        "answer_a": "Marks updates as low-priority transitions",
+        "answer_b": "Triggers immediate state updates",
+        "answer_c": "Memoizes component outputs",
+        "answer_d": "Manages context values",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The startTransition function marks state updates as low-priority, allowing React to prioritize urgent updates and improve UI responsiveness.",
+      "tip": "Study React's Concurrent Rendering APIs.",
+      "tags": [
+        {
+          "name": "react"
+        }
+      ],
+      "category": "React",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10000,
+      "question": "What is the correct syntax to print something in the console? (Q10000)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "print('Hello')",
+        "answer_b": "console.print('Hello')",
+        "answer_c": "log('Hello')",
+        "answer_d": "console.log('Hello')",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 3,
+      "explanation": "console.log() is used to output messages to the web console in JavaScript.",
+      "tip": "Remember the difference between browser methods and JavaScript syntax.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10001,
+      "question": "Which company developed JavaScript? (Q10001)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "Microsoft",
+        "answer_b": "Netscape",
+        "answer_c": "Google",
+        "answer_d": "IBM",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "Netscape developed JavaScript in 1995, originally called LiveScript.",
+      "tip": "Think about early web browser companies.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10002,
+      "question": "Which keyword is used to declare a constant in JavaScript? (Q10002)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "let",
+        "answer_b": "var",
+        "answer_c": "const",
+        "answer_d": "define",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "The 'const' keyword is used to declare constants in JavaScript that cannot be reassigned.",
+      "tip": "Use 'const' when you don't intend to change the variable later.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10003,
+      "question": "Which symbol is used for single-line comments in JavaScript? (Q10003)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "<!-- -->",
+        "answer_b": "#",
+        "answer_c": "//",
+        "answer_d": "/* */",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "JavaScript uses // for single-line comments.",
+      "tip": "Different from HTML comment syntax!",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10004,
+      "question": "What will 3 + '3' return in JavaScript? (Q10004)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "6",
+        "answer_b": "33",
+        "answer_c": "NaN",
+        "answer_d": "Error",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "JavaScript converts number to string in this case, resulting in '33'.",
+      "tip": "Watch out for type coercion!",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10005,
+      "question": "Which method adds an element to the end of an array? (Q10005)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "push()",
+        "answer_b": "pop()",
+        "answer_c": "shift()",
+        "answer_d": "unshift()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "push() appends elements to the end of an array.",
+      "tip": "Remember: push to end, pop from end.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10006,
+      "question": "Which operator is used for strict equality? (Q10006)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "==",
+        "answer_b": "===",
+        "answer_c": "!=",
+        "answer_d": "!==",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "=== checks for both value and type equality.",
+      "tip": "Prefer === for accuracy!",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10007,
+      "question": "Which of the following is a JavaScript data type? (Q10007)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "float",
+        "answer_b": "string",
+        "answer_c": "decimal",
+        "answer_d": "real",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "'string' is one of JavaScript's primitive data types.",
+      "tip": "Remember the primitive types.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10008,
+      "question": "Which method converts a string to an integer? (Q10008)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "int()",
+        "answer_b": "parseInt()",
+        "answer_c": "Number()",
+        "answer_d": "stringToInt()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "parseInt() parses a string and returns an integer.",
+      "tip": "Use parseInt() with base 10 when needed.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10009,
+      "question": "What is the default value of an uninitialized variable? (Q10009)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "null",
+        "answer_b": "0",
+        "answer_c": "undefined",
+        "answer_d": "false",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "In JavaScript, uninitialized variables are 'undefined'.",
+      "tip": "undefined is the default state.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10010,
+      "question": "What will be the result of: typeof NaN? (Q10010)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "NaN",
+        "answer_b": "undefined",
+        "answer_c": "number",
+        "answer_d": "object",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "In JavaScript, NaN is of type 'number'.",
+      "tip": "Even invalid numbers are considered numbers!",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10011,
+      "question": "Which of the following is a closure in JavaScript? (Q10011)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "A function within a loop",
+        "answer_b": "A function passed to setTimeout()",
+        "answer_c": "A function that has access to its outer function scope",
+        "answer_d": "An arrow function",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "Closures are functions that remember the scope they were created in.",
+      "tip": "Closures help with data encapsulation.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10012,
+      "question": "What is the result of '2' + 2 + 3 in JavaScript? (Q10012)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "7",
+        "answer_b": "223",
+        "answer_c": "NaN",
+        "answer_d": "Error",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "JavaScript coerces 2 to a string, resulting in '223'.",
+      "tip": "Type coercion starts left to right.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10013,
+      "question": "Which method is used to loop through an array and apply a function to each element? (Q10013)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "map()",
+        "answer_b": "filter()",
+        "answer_c": "reduce()",
+        "answer_d": "slice()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "map() creates a new array by applying a function to each element.",
+      "tip": "map returns a new array!",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10014,
+      "question": "What will the expression 0 == '0' return? (Q10014)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "true",
+        "answer_b": "false",
+        "answer_c": "undefined",
+        "answer_d": "NaN",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "== allows type coercion, so 0 == '0' is true.",
+      "tip": "=== avoids this behavior.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10015,
+      "question": "Which keyword is used to handle exceptions in JavaScript? (Q10015)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "catch",
+        "answer_b": "throw",
+        "answer_c": "try",
+        "answer_d": "All of the above",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 3,
+      "explanation": "JavaScript uses try...catch...throw for exception handling.",
+      "tip": "Use try...catch with throw to manage errors.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10016,
+      "question": "How do you check if a variable is an array? (Q10016)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "typeof x === 'array'",
+        "answer_b": "x instanceof Array",
+        "answer_c": "Array.isArray(x)",
+        "answer_d": "Both 2 and 3",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 3,
+      "explanation": "Both 'x instanceof Array' and 'Array.isArray(x)' are valid.",
+      "tip": "Array.isArray is more reliable across frames.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10017,
+      "question": "What will '5' - 3 evaluate to in JavaScript? (Q10017)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "2",
+        "answer_b": "53",
+        "answer_c": "undefined",
+        "answer_d": "NaN",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The minus operator triggers numeric coercion.",
+      "tip": "Unlike +, - does not concatenate.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10018,
+      "question": "Which built-in method returns the characters in a string beginning at the specified location? (Q10018)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "substr()",
+        "answer_b": "substring()",
+        "answer_c": "slice()",
+        "answer_d": "charAt()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "substr() returns a substring from a starting index for a length.",
+      "tip": "substr(start, length)",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10019,
+      "question": "Which object is the top of the scope chain in a browser? (Q10019)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "document",
+        "answer_b": "global",
+        "answer_c": "window",
+        "answer_d": "this",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "In browsers, the global scope is the window object.",
+      "tip": "window is the global object in browser JS.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10020,
+      "question": "What is the output of: (function(){ return typeof arguments; })(); (Q10020)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "array",
+        "answer_b": "object",
+        "answer_c": "arguments",
+        "answer_d": "undefined",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "arguments is an object, not an array.",
+      "tip": "Use Array.from to convert it.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10021,
+      "question": "Which of the following best describes the use of 'bind()' in JavaScript? (Q10021)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "Binds an event",
+        "answer_b": "Creates a new function with a specified this value",
+        "answer_c": "Stops event bubbling",
+        "answer_d": "None of the above",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "bind() sets the value of 'this' and returns a new function.",
+      "tip": "Use bind when passing methods as callbacks.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10022,
+      "question": "What is the result of typeof null in JavaScript? (Q10022)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "null",
+        "answer_b": "undefined",
+        "answer_c": "object",
+        "answer_d": "function",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "typeof null is 'object'\u2014a long-standing JavaScript bug.",
+      "tip": "It\u2019s an exception in typeof.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10023,
+      "question": "How does JavaScript handle variable hoisting? (Q10023)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "Only function declarations are hoisted",
+        "answer_b": "Only variable declarations are hoisted",
+        "answer_c": "Both declarations and initializations are hoisted",
+        "answer_d": "Only declarations, not initializations, are hoisted",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 3,
+      "explanation": "Only declarations are hoisted; initializations stay in place.",
+      "tip": "Declared but undefined before assignment.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10024,
+      "question": "Which feature allows JavaScript to run asynchronous code without blocking? (Q10024)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "Event Loop",
+        "answer_b": "Web Workers",
+        "answer_c": "Callbacks",
+        "answer_d": "All of the above",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 3,
+      "explanation": "All these are part of JavaScript's async capabilities.",
+      "tip": "Event loop manages the async queue.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10025,
+      "question": "What is a promise in JavaScript? (Q10025)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "A type of function",
+        "answer_b": "An object representing a future value",
+        "answer_c": "A keyword",
+        "answer_d": "An event listener",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "A promise represents an asynchronous operation's eventual result.",
+      "tip": "Use .then() and .catch().",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10026,
+      "question": "What is the output of: [] + []? (Q10026)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "undefined",
+        "answer_b": "0",
+        "answer_c": "",
+        "answer_d": "NaN",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "[] + [] results in an empty string due to coercion.",
+      "tip": "Empty arrays become empty strings when added.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10027,
+      "question": "What is the output of: [1, 2] + [3, 4]? (Q10027)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "[1,2,3,4]",
+        "answer_b": "10",
+        "answer_c": "1,23,4",
+        "answer_d": "1,23,4",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 3,
+      "explanation": "Arrays are coerced to strings, resulting in '1,23,4'.",
+      "tip": "Use spread operator for merging arrays.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10028,
+      "question": "Which method returns a promise that resolves when all of the promises in the iterable have resolved? (Q10028)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "Promise.resolve()",
+        "answer_b": "Promise.all()",
+        "answer_c": "Promise.race()",
+        "answer_d": "Promise.any()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 1,
+      "explanation": "Promise.all() resolves when all promises resolve, or rejects if any reject.",
+      "tip": "Use for parallel tasks.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 10029,
+      "question": "What does 'use strict' do in JavaScript? (Q10029)",
+      "description": "A question to test your knowledge in JavaScript.",
+      "answers": {
+        "answer_a": "Enables modern JS features",
+        "answer_b": "Disables ES6",
+        "answer_c": "Enforces stricter parsing and error handling",
+        "answer_d": "Enables strict types",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 2,
+      "explanation": "'use strict' enforces stricter parsing rules in JavaScript.",
+      "tip": "Catch common coding errors early.",
+      "tags": [
+        {
+          "name": "javascript"
+        }
+      ],
+      "category": "JavaScript",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6000,
+      "question": "What is Angular primarily used for? (Q6000)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Building dynamic web applications",
+        "answer_b": "Building desktop applications",
+        "answer_c": "Building command-line tools",
+        "answer_d": "Building backend APIs",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Angular is a TypeScript-based framework for building dynamic, single-page web applications (SPAs).",
+      "tip": "Focus on Angular's core purpose.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6001,
+      "question": "Which module is required to use ngModel for two-way data binding? (Q6001)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "FormsModule",
+        "answer_b": "BrowserModule",
+        "answer_c": "HttpClientModule",
+        "answer_d": "ReactiveFormsModule",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The FormsModule is required to use ngModel for two-way data binding in Angular template-driven forms.",
+      "tip": "Focus on Angular form modules.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6002,
+      "question": "What is the purpose of the @Component decorator in Angular? (Q6002)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Defines a component's metadata",
+        "answer_b": "Creates a service",
+        "answer_c": "Configures routing",
+        "answer_d": "Declares a pipe",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The @Component decorator defines metadata like template, styles, and selector for an Angular component.",
+      "tip": "Focus on Angular decorators.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6003,
+      "question": "Which command creates a new Angular application? (Q6003)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "ng new",
+        "answer_b": "ng create",
+        "answer_c": "ng init",
+        "answer_d": "ng start",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'ng new' command initializes a new Angular application using the Angular CLI.",
+      "tip": "Focus on Angular CLI commands.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6004,
+      "question": "What does the *ngIf directive do in Angular? (Q6004)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Conditionally renders elements",
+        "answer_b": "Loops over a collection",
+        "answer_c": "Binds data to attributes",
+        "answer_d": "Switches between templates",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The *ngIf directive conditionally renders or removes elements based on an expression's truthiness.",
+      "tip": "Focus on Angular structural directives.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6005,
+      "question": "What is the role of the RouterModule in Angular? (Q6005)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Enables routing in the application",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages form validation",
+        "answer_d": "Provides animation utilities",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "RouterModule enables navigation and routing in Angular applications by defining routes.",
+      "tip": "Focus on Angular routing.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6006,
+      "question": "What is the purpose of the @Input decorator in Angular? (Q6006)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Passes data to a component",
+        "answer_b": "Emits events from a component",
+        "answer_c": "Defines a service",
+        "answer_d": "Configures routing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The @Input decorator allows a parent component to pass data to a child component.",
+      "tip": "Focus on component communication.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6007,
+      "question": "Which directive is used to iterate over a list in Angular? (Q6007)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "*ngFor",
+        "answer_b": "*ngIf",
+        "answer_c": "*ngSwitch",
+        "answer_d": "*ngModel",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The *ngFor directive is used to iterate over a collection and render elements for each item.",
+      "tip": "Focus on Angular structural directives.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6008,
+      "question": "What is the HttpClientModule used for in Angular? (Q6008)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Making HTTP requests",
+        "answer_b": "Managing form data",
+        "answer_c": "Configuring routes",
+        "answer_d": "Creating animations",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "HttpClientModule provides the HttpClient service for making HTTP requests in Angular.",
+      "tip": "Focus on Angular HTTP handling.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6009,
+      "question": "What is a service in Angular? (Q6009)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "A class for sharing logic or data",
+        "answer_b": "A template for rendering UI",
+        "answer_c": "A directive for DOM manipulation",
+        "answer_d": "A module for routing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "A service is a class used to share logic, data, or functionality across components, typically injected via dependency injection.",
+      "tip": "Focus on Angular services and dependency injection.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6010,
+      "question": "What is the difference between template-driven and reactive forms in Angular? (Q6010)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Template-driven uses directives, reactive uses programmatic control",
+        "answer_b": "Template-driven is for backend, reactive is for frontend",
+        "answer_c": "Template-driven is deprecated, reactive is modern",
+        "answer_d": "Template-driven is for static data, reactive is for dynamic",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Template-driven forms rely on directives in the template, while reactive forms use programmatic control with FormGroup and FormControl.",
+      "tip": "Focus on Angular form types.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6011,
+      "question": "What is the purpose of the async pipe in Angular? (Q6011)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Subscribes to observables and unsubscribes automatically",
+        "answer_b": "Formats data for display",
+        "answer_c": "Validates form inputs",
+        "answer_d": "Triggers animations",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The async pipe subscribes to an observable or promise and automatically unsubscribes when the component is destroyed, simplifying async data handling.",
+      "tip": "Focus on Angular pipes and RxJS.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6012,
+      "question": "What is Ahead-of-Time (AOT) compilation in Angular? (Q6012)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Compiles app at build time",
+        "answer_b": "Compiles app at runtime",
+        "answer_c": "Optimizes CSS files",
+        "answer_d": "Bundles JavaScript modules",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "AOT compilation compiles Angular templates and TypeScript code into JavaScript during the build process, improving performance and reducing bundle size.",
+      "tip": "Focus on Angular compilation methods.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6013,
+      "question": "How does Angular's OnPush change detection strategy work? (Q6013)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Checks only when inputs or events change",
+        "answer_b": "Checks the entire component tree",
+        "answer_c": "Disables change detection",
+        "answer_d": "Triggers manual updates",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "OnPush change detection checks a component only when its inputs change, an event is triggered, or an observable updates, improving performance.",
+      "tip": "Focus on Angular change detection strategies.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6014,
+      "question": "What is the purpose of the trackBy function in *ngFor? (Q6014)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Optimizes rendering by tracking items",
+        "answer_b": "Sorts the list",
+        "answer_c": "Filters the list",
+        "answer_d": "Binds data to attributes",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The trackBy function in *ngFor provides a unique identifier for items, reducing DOM re-rendering by tracking items efficiently.",
+      "tip": "Focus on Angular performance optimization.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6015,
+      "question": "What is Angular Universal? (Q6015)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Server-side rendering for Angular apps",
+        "answer_b": "A testing framework",
+        "answer_c": "A state management library",
+        "answer_d": "A CLI tool",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Angular Universal enables server-side rendering (SSR) for Angular applications, improving SEO and initial load times.",
+      "tip": "Focus on Angular server-side rendering.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6016,
+      "question": "What is the role of Dependency Injection in Angular? (Q6016)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Provides services to components",
+        "answer_b": "Manages routing",
+        "answer_c": "Handles form validation",
+        "answer_d": "Compiles templates",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Dependency Injection (DI) in Angular provides services or dependencies to components, promoting modularity and testability.",
+      "tip": "Focus on Angular's DI system.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6017,
+      "question": "What is the purpose of the @Output decorator in Angular? (Q6017)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Emits events to parent components",
+        "answer_b": "Receives data from parent components",
+        "answer_c": "Defines a service",
+        "answer_d": "Configures routing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The @Output decorator allows a child component to emit events to its parent component using EventEmitter.",
+      "tip": "Focus on component communication.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6018,
+      "question": "What is a structural directive in Angular? (Q6018)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Alters the DOM structure",
+        "answer_b": "Modifies element behavior",
+        "answer_c": "Formats data output",
+        "answer_d": "Handles HTTP requests",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Structural directives, like *ngIf and *ngFor, alter the DOM structure by adding, removing, or manipulating elements.",
+      "tip": "Focus on Angular directives.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6019,
+      "question": "What is the benefit of lazy loading in Angular? (Q6019)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Reduces initial load time",
+        "answer_b": "Improves SEO",
+        "answer_c": "Enables two-way binding",
+        "answer_d": "Simplifies testing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Lazy loading loads modules only when needed, reducing the initial payload and improving application performance.",
+      "tip": "Focus on Angular routing and performance.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6020,
+      "question": "What is Zone.js and how does Angular use it? (Q6020)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Intercepts async tasks for change detection",
+        "answer_b": "Manages state in components",
+        "answer_c": "Handles HTTP requests",
+        "answer_d": "Compiles templates",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Zone.js intercepts asynchronous tasks, enabling Angular to automatically trigger change detection when tasks like timers or events occur.",
+      "tip": "Focus on Angular's change detection mechanism.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6021,
+      "question": "What is the Ivy renderer in Angular? (Q6021)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "A rendering engine for smaller bundles",
+        "answer_b": "A testing framework",
+        "answer_c": "A state management library",
+        "answer_d": "A routing module",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Ivy is Angular's rendering engine, introduced in version 9, offering smaller bundle sizes, faster compilation, and improved debugging.",
+      "tip": "Focus on Angular's rendering engine.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6022,
+      "question": "What is the purpose of the ng-container element in Angular? (Q6022)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Groups elements without adding to DOM",
+        "answer_b": "Renders a component",
+        "answer_c": "Handles form validation",
+        "answer_d": "Triggers animations",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "ng-container is a logical container that groups elements for directives like *ngIf or *ngFor without adding extra DOM elements.",
+      "tip": "Focus on Angular template syntax.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6023,
+      "question": "How does Angular's new control flow syntax improve performance? (Q6023)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Reduces template parsing overhead",
+        "answer_b": "Disables change detection",
+        "answer_c": "Optimizes HTTP requests",
+        "answer_d": "Simplifies routing",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in Angular 17, the new control flow syntax (@if, @for, @switch) reduces template parsing overhead and improves readability and performance.",
+      "tip": "Focus on Angular 17+ features.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6024,
+      "question": "What is the purpose of Angular's HttpInterceptor? (Q6024)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Modifies HTTP requests and responses",
+        "answer_b": "Handles form submissions",
+        "answer_c": "Manages routing",
+        "answer_d": "Optimizes templates",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "HttpInterceptor allows modification of HTTP requests and responses, such as adding headers or handling errors globally.",
+      "tip": "Focus on Angular HTTP handling.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6025,
+      "question": "What is the defer loading feature in Angular? (Q6025)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Defers loading of components until needed",
+        "answer_b": "Delays HTTP requests",
+        "answer_c": "Disables change detection",
+        "answer_d": "Optimizes CSS loading",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in Angular 17, defer loading defers the loading of components or content blocks until they are needed, improving performance.",
+      "tip": "Focus on Angular 17+ features.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6026,
+      "question": "What is the role of Angular's CanActivate guard? (Q6026)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Controls route activation",
+        "answer_b": "Handles form validation",
+        "answer_c": "Manages state",
+        "answer_d": "Triggers animations",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "CanActivate guard determines whether a route can be activated, often used for authentication checks.",
+      "tip": "Focus on Angular route guards.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6027,
+      "question": "What is incremental DOM in Angular? (Q6027)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "A DOM representation used by Ivy",
+        "answer_b": "A routing mechanism",
+        "answer_c": "A state management tool",
+        "answer_d": "A testing framework",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Incremental DOM, used by the Ivy renderer, represents the DOM tree in JavaScript, enabling tree-shaking and smaller bundle sizes.",
+      "tip": "Focus on Angular's Ivy renderer.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6028,
+      "question": "How does Angular handle memory leaks with observables? (Q6028)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Using async pipe or manual unsubscription",
+        "answer_b": "By disabling change detection",
+        "answer_c": "Through lazy loading",
+        "answer_d": "With template compilation",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Angular prevents memory leaks with observables by using the async pipe, which auto-unsubscribes, or by manually unsubscribing in ngOnDestroy.",
+      "tip": "Focus on Angular RxJS and lifecycle hooks.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 6029,
+      "question": "What is the benefit of using standalone components in Angular? (Q6029)",
+      "description": "A question to test your knowledge in Angular.",
+      "answers": {
+        "answer_a": "Reduces need for NgModules",
+        "answer_b": "Improves SEO",
+        "answer_c": "Enables two-way binding",
+        "answer_d": "Simplifies HTTP requests",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Standalone components, introduced in Angular 14, eliminate the need for NgModules, simplifying app structure and improving tree-shaking.",
+      "tip": "Focus on Angular 14+ features.",
+      "tags": [
+        {
+          "name": "angular"
+        }
+      ],
+      "category": "Angular",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7000,
+      "question": "What does PHP stand for? (Q7000)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Hypertext Preprocessor",
+        "answer_b": "Personal Home Page",
+        "answer_c": "Programmatic Hyperlink Processor",
+        "answer_d": "Precompiled Hypertext Page",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "PHP stands for Hypertext Preprocessor, a server-side scripting language for web development.",
+      "tip": "Focus on PHP's core purpose.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7001,
+      "question": "How do you output text in PHP? (Q7001)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "echo",
+        "answer_b": "print_r",
+        "answer_c": "var_dump",
+        "answer_d": "display",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'echo' statement outputs text or variables to the browser in PHP.",
+      "tip": "Focus on PHP output functions.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7002,
+      "question": "Which symbol is used to start a PHP code block? (Q7002)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "<?php",
+        "answer_b": "<?",
+        "answer_c": "<php",
+        "answer_d": "<?=",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The '<?php' tag is used to start a PHP code block.",
+      "tip": "Focus on PHP syntax.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7003,
+      "question": "How do you define a variable in PHP? (Q7003)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "$variable",
+        "answer_b": "var variable",
+        "answer_c": "let variable",
+        "answer_d": "const variable",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Variables in PHP are defined using a '$' followed by the variable name, e.g., $variable.",
+      "tip": "Focus on PHP variable syntax.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7004,
+      "question": "What is the correct way to comment a single line in PHP? (Q7004)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "// This is a comment",
+        "answer_b": "<!-- This is a comment -->",
+        "answer_c": "/* This is a comment */",
+        "answer_d": "# This is a comment #",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Single-line comments in PHP use '//' or '#'.",
+      "tip": "Focus on PHP commenting syntax.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7005,
+      "question": "Which function checks if a variable is set in PHP? (Q7005)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "isset()",
+        "answer_b": "is_set()",
+        "answer_c": "empty()",
+        "answer_d": "defined()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The isset() function checks if a variable is set and not null.",
+      "tip": "Focus on PHP variable functions.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7006,
+      "question": "How do you concatenate strings in PHP? (Q7006)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Using the . operator",
+        "answer_b": "Using the + operator",
+        "answer_c": "Using the & operator",
+        "answer_d": "Using the :: operator",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The '.' operator is used to concatenate strings in PHP, e.g., $str1 . $str2.",
+      "tip": "Focus on PHP string operations.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7007,
+      "question": "What is the purpose of the include statement in PHP? (Q7007)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Includes and evaluates a file",
+        "answer_b": "Defines a class",
+        "answer_c": "Creates a function",
+        "answer_d": "Declares a constant",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The include statement includes and evaluates a specified PHP file, allowing code reuse.",
+      "tip": "Focus on PHP file inclusion.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7008,
+      "question": "Which superglobal stores form data sent via POST? (Q7008)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "$_POST",
+        "answer_b": "$_GET",
+        "answer_c": "$_REQUEST",
+        "answer_d": "$_SESSION",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The $_POST superglobal stores data sent to the server via the HTTP POST method.",
+      "tip": "Focus on PHP superglobals.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7009,
+      "question": "How do you define a constant in PHP? (Q7009)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "define('NAME', 'value')",
+        "answer_b": "const NAME = 'value'",
+        "answer_c": "$NAME = 'value'",
+        "answer_d": "constant NAME = 'value'",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The define() function is used to define a constant in PHP, e.g., define('NAME', 'value').",
+      "tip": "Focus on PHP constants.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7010,
+      "question": "What is the difference between include and require in PHP? (Q7010)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "require halts on error, include does not",
+        "answer_b": "include is for classes, require is for functions",
+        "answer_c": "require is deprecated, include is modern",
+        "answer_d": "include is faster, require is slower",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "require throws a fatal error and stops execution if the file is missing, while include only issues a warning.",
+      "tip": "Focus on PHP file inclusion.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7011,
+      "question": "What is the purpose of the PDO extension in PHP? (Q7011)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Provides a database abstraction layer",
+        "answer_b": "Handles file uploads",
+        "answer_c": "Manages sessions",
+        "answer_d": "Formats strings",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "PDO (PHP Data Objects) provides a consistent interface for accessing various databases.",
+      "tip": "Focus on PHP database handling.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7012,
+      "question": "What does the array_merge() function do in PHP? (Q7012)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Combines multiple arrays",
+        "answer_b": "Sorts an array",
+        "answer_c": "Removes duplicate values",
+        "answer_d": "Filters array elements",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "array_merge() combines multiple arrays into a single array, preserving keys for associative arrays.",
+      "tip": "Focus on PHP array functions.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7013,
+      "question": "How do you start a session in PHP? (Q7013)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "session_start()",
+        "answer_b": "start_session()",
+        "answer_c": "session_begin()",
+        "answer_d": "init_session()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The session_start() function initializes a session or resumes an existing one.",
+      "tip": "Focus on PHP session management.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7014,
+      "question": "What is the purpose of the __construct() method in a PHP class? (Q7014)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Initializes object properties",
+        "answer_b": "Destroys an object",
+        "answer_c": "Defines a static method",
+        "answer_d": "Clones an object",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The __construct() method is a constructor that runs automatically when an object is instantiated.",
+      "tip": "Focus on PHP OOP.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7015,
+      "question": "What does the === operator do in PHP? (Q7015)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Checks value and type equality",
+        "answer_b": "Checks value equality only",
+        "answer_c": "Assigns a value",
+        "answer_d": "Compares string length",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The === operator checks for both value and type equality, ensuring strict comparison.",
+      "tip": "Focus on PHP comparison operators.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7016,
+      "question": "What is the purpose of the filter_var() function in PHP? (Q7016)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Validates and sanitizes data",
+        "answer_b": "Formats strings",
+        "answer_c": "Sorts arrays",
+        "answer_d": "Encodes JSON",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "filter_var() validates or sanitizes data, such as emails or URLs, using predefined filters.",
+      "tip": "Focus on PHP data validation.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7017,
+      "question": "How do you access a class property in PHP? (Q7017)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "$this->property",
+        "answer_b": "$this.property",
+        "answer_c": "self::property",
+        "answer_d": "class::property",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Class properties are accessed using $this->property within the class.",
+      "tip": "Focus on PHP OOP syntax.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7018,
+      "question": "What is the difference between GET and POST methods in PHP? (Q7018)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "GET sends data via URL, POST sends via body",
+        "answer_b": "GET is secure, POST is not",
+        "answer_c": "POST is for files, GET is for text",
+        "answer_d": "GET is faster, POST is slower",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "GET sends data via the URL (visible), while POST sends data in the request body (more secure for sensitive data).",
+      "tip": "Focus on PHP HTTP methods.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7019,
+      "question": "What does the json_encode() function do in PHP? (Q7019)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Converts data to JSON format",
+        "answer_b": "Decodes JSON data",
+        "answer_c": "Encodes URLs",
+        "answer_d": "Formats arrays",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "json_encode() converts PHP data (e.g., arrays) into a JSON string.",
+      "tip": "Focus on PHP JSON handling.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7020,
+      "question": "What is a namespace in PHP? (Q7020)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Organizes code to avoid name conflicts",
+        "answer_b": "Defines a class",
+        "answer_c": "Handles database connections",
+        "answer_d": "Formats output",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Namespaces group classes, functions, and constants to prevent naming collisions in large projects.",
+      "tip": "Focus on PHP namespaces.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7021,
+      "question": "What is the purpose of traits in PHP? (Q7021)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Enables multiple inheritance",
+        "answer_b": "Defines abstract classes",
+        "answer_c": "Handles exceptions",
+        "answer_d": "Manages sessions",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Traits allow code reuse by enabling multiple inheritance, letting classes share methods without extending a single parent.",
+      "tip": "Focus on PHP OOP features.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7022,
+      "question": "What does the spl_autoload_register() function do in PHP? (Q7022)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Registers a function for autoloading classes",
+        "answer_b": "Loads configuration files",
+        "answer_c": "Handles exceptions",
+        "answer_d": "Encodes data",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "spl_autoload_register() registers a function to automatically load classes when they are instantiated.",
+      "tip": "Focus on PHP autoloading.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7023,
+      "question": "What is the purpose of the __autoload() function in PHP? (Q7023)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Deprecated method for autoloading classes",
+        "answer_b": "Handles file uploads",
+        "answer_c": "Manages sessions",
+        "answer_d": "Formats strings",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "__autoload() is a deprecated function for autoloading classes, replaced by spl_autoload_register() for more flexibility.",
+      "tip": "Focus on PHP autoloading history.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7024,
+      "question": "What is the use of the null coalescing operator (??) in PHP? (Q7024)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Returns first non-null value",
+        "answer_b": "Checks type equality",
+        "answer_c": "Merges arrays",
+        "answer_d": "Throws exceptions",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in PHP 7, the null coalescing operator (??) returns the first non-null operand, simplifying null checks.",
+      "tip": "Focus on PHP 7+ features.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7025,
+      "question": "What is the spaceship operator (<=>) in PHP? (Q7025)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Compares values and returns -1, 0, or 1",
+        "answer_b": "Concatenates strings",
+        "answer_c": "Checks null values",
+        "answer_d": "Merges arrays",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in PHP 7, the spaceship operator (<=>) compares two values, returning -1, 0, or 1 for less than, equal, or greater than.",
+      "tip": "Focus on PHP 7+ operators.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7026,
+      "question": "What is the purpose of the yield keyword in PHP? (Q7026)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Creates generators for iterative data",
+        "answer_b": "Handles exceptions",
+        "answer_c": "Defines constants",
+        "answer_d": "Clones objects",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The yield keyword creates generators, allowing functions to return values iteratively without loading all data into memory.",
+      "tip": "Focus on PHP generators.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7027,
+      "question": "What is the benefit of using prepared statements in PHP? (Q7027)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Prevents SQL injection",
+        "answer_b": "Formats output",
+        "answer_c": "Handles file uploads",
+        "answer_d": "Encodes JSON",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Prepared statements separate SQL code from user input, preventing SQL injection attacks.",
+      "tip": "Focus on PHP database security.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7028,
+      "question": "What is the purpose of the anonymous class in PHP? (Q7028)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Defines a class without a name",
+        "answer_b": "Handles exceptions",
+        "answer_c": "Manages sessions",
+        "answer_d": "Formats strings",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in PHP 7, anonymous classes are defined without a name, often used for one-off objects or testing.",
+      "tip": "Focus on PHP 7+ OOP features.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 7029,
+      "question": "What is the purpose of the strict_types declaration in PHP? (Q7029)",
+      "description": "A question to test your knowledge in PHP.",
+      "answers": {
+        "answer_a": "Enforces strict type checking",
+        "answer_b": "Disables type checking",
+        "answer_c": "Handles exceptions",
+        "answer_d": "Formats output",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in PHP 7, declare(strict_types=1) enforces strict type checking for function arguments and return types.",
+      "tip": "Focus on PHP type declarations.",
+      "tags": [
+        {
+          "name": "php"
+        }
+      ],
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8000,
+      "question": "What is Dart primarily used for? (Q8000)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Building cross-platform applications",
+        "answer_b": "Building backend APIs",
+        "answer_c": "Creating command-line tools",
+        "answer_d": "Formatting databases",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Dart is primarily used for building cross-platform applications, especially with Flutter for mobile, web, and desktop.",
+      "tip": "Focus on Dart's role in Flutter.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8001,
+      "question": "How do you declare a variable in Dart? (Q8001)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "var name;",
+        "answer_b": "$name;",
+        "answer_c": "let name;",
+        "answer_d": "variable name;",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "In Dart, variables are declared using 'var', 'int', 'String', or other types, e.g., var name; or String name;.",
+      "tip": "Focus on Dart variable syntax.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8002,
+      "question": "What is the purpose of the 'void' keyword in Dart? (Q8002)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Indicates a function returns no value",
+        "answer_b": "Declares a variable",
+        "answer_c": "Defines a class",
+        "answer_d": "Handles exceptions",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'void' keyword indicates that a function does not return a value.",
+      "tip": "Focus on Dart function syntax.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8003,
+      "question": "Which symbol denotes a single-line comment in Dart? (Q8003)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "//",
+        "answer_b": "#",
+        "answer_c": "/*",
+        "answer_d": "<!--",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Single-line comments in Dart use '//', e.g., // This is a comment.",
+      "tip": "Focus on Dart commenting syntax.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8004,
+      "question": "What is the default value of an uninitialized variable in Dart? (Q8004)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "null",
+        "answer_b": "0",
+        "answer_c": "undefined",
+        "answer_d": "false",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "In Dart, uninitialized variables have a default value of null, as Dart is null-safe by default in modern versions.",
+      "tip": "Focus on Dart's null safety.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8005,
+      "question": "How do you define a constant in Dart? (Q8005)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "const name = value;",
+        "answer_b": "final name = value;",
+        "answer_c": "static name = value;",
+        "answer_d": "define name = value;",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Constants in Dart are defined using 'const', e.g., const name = value; for compile-time constants.",
+      "tip": "Focus on Dart constants vs. final.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8006,
+      "question": "What is the purpose of the 'print' function in Dart? (Q8006)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Outputs text to the console",
+        "answer_b": "Formats strings",
+        "answer_c": "Saves data to a file",
+        "answer_d": "Declares variables",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The print() function outputs text or variables to the console for debugging or logging.",
+      "tip": "Focus on Dart debugging tools.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8007,
+      "question": "Which operator is used for string interpolation in Dart? (Q8007)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "$",
+        "answer_b": "&",
+        "answer_c": "#",
+        "answer_d": "@",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The '$' operator is used for string interpolation, e.g., print('Hello $name');.",
+      "tip": "Focus on Dart string handling.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8008,
+      "question": "What is the purpose of the 'List' class in Dart? (Q8008)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Stores an ordered collection",
+        "answer_b": "Stores key-value pairs",
+        "answer_c": "Handles asynchronous tasks",
+        "answer_d": "Defines a class",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The List class stores an ordered collection of elements, similar to arrays in other languages.",
+      "tip": "Focus on Dart collections.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8009,
+      "question": "How do you define a function in Dart? (Q8009)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "void functionName() {}",
+        "answer_b": "function functionName() {}",
+        "answer_c": "def functionName() {}",
+        "answer_d": "func functionName() {}",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Functions in Dart are defined with a return type (or void), name, and body, e.g., void functionName() {}.",
+      "tip": "Focus on Dart function syntax.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8010,
+      "question": "What is the difference between 'const' and 'final' in Dart? (Q8010)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "const is compile-time, final is runtime",
+        "answer_b": "const is for numbers, final is for strings",
+        "answer_c": "const is mutable, final is immutable",
+        "answer_d": "const is for classes, final is for variables",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "const creates compile-time constants, while final creates runtime constants that can be assigned once.",
+      "tip": "Focus on Dart's constant keywords.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8011,
+      "question": "What is the purpose of the 'async' keyword in Dart? (Q8011)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Marks a function as asynchronous",
+        "answer_b": "Defines a synchronous function",
+        "answer_c": "Handles exceptions",
+        "answer_d": "Declares a constant",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'async' keyword marks a function as asynchronous, allowing it to use 'await' for Futures.",
+      "tip": "Focus on Dart asynchronous programming.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8012,
+      "question": "What does the 'Map' class represent in Dart? (Q8012)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "A collection of key-value pairs",
+        "answer_b": "An ordered list",
+        "answer_c": "A set of unique values",
+        "answer_d": "A function collection",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The Map class represents a collection of key-value pairs, similar to dictionaries in other languages.",
+      "tip": "Focus on Dart collections.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8013,
+      "question": "What is the purpose of the 'Future' class in Dart? (Q8013)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Represents an asynchronous result",
+        "answer_b": "Handles synchronous tasks",
+        "answer_c": "Stores constant values",
+        "answer_d": "Defines a class",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The Future class represents a value that will be available in the future, used for asynchronous operations.",
+      "tip": "Focus on Dart's async programming.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8014,
+      "question": "How do you handle exceptions in Dart? (Q8014)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Using try-catch blocks",
+        "answer_b": "Using if-else statements",
+        "answer_c": "Using async-await",
+        "answer_d": "Using const declarations",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Exceptions in Dart are handled using try-catch blocks, e.g., try { ... } catch (e) { ... }.",
+      "tip": "Focus on Dart error handling.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8015,
+      "question": "What is the purpose of the 'class' keyword in Dart? (Q8015)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Defines a blueprint for objects",
+        "answer_b": "Declares a function",
+        "answer_c": "Handles asynchronous tasks",
+        "answer_d": "Formats strings",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'class' keyword defines a blueprint for creating objects with properties and methods.",
+      "tip": "Focus on Dart OOP.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8016,
+      "question": "What does the '=> ' syntax represent in Dart? (Q8016)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "A shorthand for function expressions",
+        "answer_b": "A comparison operator",
+        "answer_c": "A null check",
+        "answer_d": "A class constructor",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The '=>' syntax is a shorthand for function expressions, returning a single expression, e.g., int add(a, b) => a + b;.",
+      "tip": "Focus on Dart function syntax.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8017,
+      "question": "What is the difference between 'dynamic' and 'Object' in Dart? (Q8017)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "dynamic bypasses type checking, Object does not",
+        "answer_b": "dynamic is for classes, Object is for variables",
+        "answer_c": "dynamic is immutable, Object is mutable",
+        "answer_d": "dynamic is for async, Object is for sync",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "dynamic allows any type and bypasses static type checking, while Object is the root of all Dart classes and enforces type safety.",
+      "tip": "Focus on Dart type system.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8018,
+      "question": "What is the purpose of the 'Set' class in Dart? (Q8018)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Stores unique elements",
+        "answer_b": "Stores key-value pairs",
+        "answer_c": "Stores ordered lists",
+        "answer_d": "Handles async tasks",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The Set class stores a collection of unique elements, with no duplicates allowed.",
+      "tip": "Focus on Dart collections.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8019,
+      "question": "What is a named constructor in Dart? (Q8019)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "A constructor with a custom name",
+        "answer_b": "A constructor for async tasks",
+        "answer_c": "A constructor for constants",
+        "answer_d": "A constructor for static methods",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Named constructors in Dart have custom names, e.g., ClassName.custom(), allowing multiple ways to initialize an object.",
+      "tip": "Focus on Dart OOP constructors.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8020,
+      "question": "What is null safety in Dart? (Q8020)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Prevents null reference errors",
+        "answer_b": "Handles asynchronous tasks",
+        "answer_c": "Formats strings",
+        "answer_d": "Manages collections",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in Dart 2.12, null safety prevents null reference errors by enforcing non-nullable types unless explicitly declared.",
+      "tip": "Focus on Dart 2.12+ features.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8021,
+      "question": "What is the purpose of a mixin in Dart? (Q8021)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Shares methods between classes",
+        "answer_b": "Handles exceptions",
+        "answer_c": "Declares constants",
+        "answer_d": "Manages async tasks",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Mixins allow code reuse by sharing methods and properties between classes without full inheritance.",
+      "tip": "Focus on Dart OOP features.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8022,
+      "question": "What is an Isolate in Dart? (Q8022)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "A separate thread for concurrent execution",
+        "answer_b": "A type of collection",
+        "answer_c": "A class constructor",
+        "answer_d": "An async function",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Isolates are independent threads of execution in Dart, with their own memory, used for concurrency.",
+      "tip": "Focus on Dart concurrency.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8023,
+      "question": "What does the 'late' keyword do in Dart? (Q8023)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Delays variable initialization",
+        "answer_b": "Marks a function as async",
+        "answer_c": "Declares a constant",
+        "answer_d": "Handles exceptions",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced with null safety, 'late' delays variable initialization until first use, ensuring non-null values.",
+      "tip": "Focus on Dart null safety.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8024,
+      "question": "What is the purpose of the 'Stream' class in Dart? (Q8024)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Handles asynchronous data sequences",
+        "answer_b": "Stores key-value pairs",
+        "answer_c": "Manages synchronous tasks",
+        "answer_d": "Formats strings",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The Stream class handles sequences of asynchronous data, such as events or continuous updates.",
+      "tip": "Focus on Dart async programming.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8025,
+      "question": "What is the cascade operator (..) in Dart? (Q8025)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Chains operations on the same object",
+        "answer_b": "Compares values",
+        "answer_c": "Handles null values",
+        "answer_d": "Declares a function",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The cascade operator (..) allows multiple operations on the same object without repeating its name, e.g., obj..method1()..method2().",
+      "tip": "Focus on Dart syntax sugar.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8026,
+      "question": "What is the purpose of the 'extension' keyword in Dart? (Q8026)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Adds methods to existing classes",
+        "answer_b": "Declares a class",
+        "answer_c": "Handles async tasks",
+        "answer_d": "Manages collections",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Introduced in Dart 2.7, 'extension' adds methods to existing classes without modifying their source code.",
+      "tip": "Focus on Dart extensions.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8027,
+      "question": "What is the benefit of sound null safety in Dart? (Q8027)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Eliminates null reference errors at compile time",
+        "answer_b": "Improves async performance",
+        "answer_c": "Simplifies class inheritance",
+        "answer_d": "Optimizes collections",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Sound null safety ensures that null reference errors are caught at compile time, improving code reliability.",
+      "tip": "Focus on Dart 2.12+ null safety.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8028,
+      "question": "What is the purpose of the 'factory' keyword in Dart? (Q8028)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Creates custom object instantiation",
+        "answer_b": "Declares a constant",
+        "answer_c": "Handles async tasks",
+        "answer_d": "Formats strings",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'factory' keyword defines a factory constructor that can return cached or custom instances of a class.",
+      "tip": "Focus on Dart OOP constructors.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 8029,
+      "question": "What is the role of the 'typedef' keyword in Dart? (Q8029)",
+      "description": "A question to test your knowledge in Dart.",
+      "answers": {
+        "answer_a": "Defines function type aliases",
+        "answer_b": "Declares a class",
+        "answer_c": "Handles exceptions",
+        "answer_d": "Manages collections",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'typedef' keyword creates aliases for function types, simplifying complex function signatures.",
+      "tip": "Focus on Dart type system.",
+      "tags": [
+        {
+          "name": "dart"
+        }
+      ],
+      "category": "Dart",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9000,
+      "question": "What is Flutter primarily used for? (Q9000)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Building cross-platform apps",
+        "answer_b": "Building backend APIs",
+        "answer_c": "Creating command-line tools",
+        "answer_d": "Managing databases",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Flutter is a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.",
+      "tip": "Focus on Flutter's cross-platform capabilities.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9001,
+      "question": "What is a widget in Flutter? (Q9001)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "A UI component",
+        "answer_b": "A database model",
+        "answer_c": "A routing mechanism",
+        "answer_d": "A state manager",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Widgets are the building blocks of Flutter's UI, representing components like buttons, text, or layouts.",
+      "tip": "Focus on Flutter's widget system.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9002,
+      "question": "Which widget is used to create a scrollable list in Flutter? (Q9002)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "ListView",
+        "answer_b": "Column",
+        "answer_c": "Stack",
+        "answer_d": "Row",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "ListView is a widget that creates a scrollable list of children, ideal for dynamic lists.",
+      "tip": "Focus on Flutter layout widgets.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9003,
+      "question": "What is the purpose of the MaterialApp widget in Flutter? (Q9003)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Provides Material Design structure",
+        "answer_b": "Handles animations",
+        "answer_c": "Manages state",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "MaterialApp provides a structure for Material Design apps, including navigation, themes, and routing.",
+      "tip": "Focus on Flutter's app structure.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9004,
+      "question": "Which command creates a new Flutter project? (Q9004)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "flutter create",
+        "answer_b": "flutter new",
+        "answer_c": "flutter init",
+        "answer_d": "flutter start",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'flutter create' command initializes a new Flutter project with a default structure.",
+      "tip": "Focus on Flutter CLI commands.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9005,
+      "question": "What is the purpose of the Scaffold widget in Flutter? (Q9005)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Provides a basic app structure",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages animations",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Scaffold provides a basic app structure with features like AppBar, Drawer, and FloatingActionButton.",
+      "tip": "Focus on Flutter's Material Design widgets.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9006,
+      "question": "What is the difference between StatelessWidget and StatefulWidget? (Q9006)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "StatelessWidget is immutable, StatefulWidget is mutable",
+        "answer_b": "StatelessWidget is for animations, StatefulWidget is for layouts",
+        "answer_c": "StatelessWidget is for backend, StatefulWidget is for frontend",
+        "answer_d": "StatelessWidget is deprecated, StatefulWidget is modern",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "StatelessWidget is immutable and doesn't change, while StatefulWidget can rebuild with new state using setState().",
+      "tip": "Focus on Flutter widget types.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9007,
+      "question": "Which widget is used to arrange children horizontally in Flutter? (Q9007)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Row",
+        "answer_b": "Column",
+        "answer_c": "Stack",
+        "answer_d": "GridView",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The Row widget arranges its children horizontally in a linear layout.",
+      "tip": "Focus on Flutter layout widgets.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9008,
+      "question": "What is the purpose of the setState() method in Flutter? (Q9008)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Triggers a UI rebuild",
+        "answer_b": "Handles navigation",
+        "answer_c": "Formats text",
+        "answer_d": "Manages HTTP requests",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "setState() notifies the framework that the state has changed, triggering a rebuild of the widget tree.",
+      "tip": "Focus on Flutter state management.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9009,
+      "question": "Which package is commonly used for HTTP requests in Flutter? (Q9009)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "http",
+        "answer_b": "dio",
+        "answer_c": "flutter_http",
+        "answer_d": "network",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The 'http' package is commonly used for making HTTP requests in Flutter applications.",
+      "tip": "Focus on Flutter networking packages.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9010,
+      "question": "What is the purpose of the Navigator widget in Flutter? (Q9010)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Manages app navigation",
+        "answer_b": "Formats lists",
+        "answer_c": "Handles animations",
+        "answer_d": "Manages state",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Navigator manages a stack of routes, allowing navigation between screens in a Flutter app.",
+      "tip": "Focus on Flutter navigation.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9011,
+      "question": "What is the difference between hot reload and hot restart in Flutter? (Q9011)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Hot reload updates UI, hot restart resets app state",
+        "answer_b": "Hot reload is for backend, hot restart is for frontend",
+        "answer_c": "Hot reload is slower, hot restart is faster",
+        "answer_d": "Hot reload is deprecated, hot restart is modern",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Hot reload updates the UI without resetting state, while hot restart restarts the app, resetting state.",
+      "tip": "Focus on Flutter development tools.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9012,
+      "question": "What is the purpose of the Provider package in Flutter? (Q9012)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Manages app state",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Creates animations",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The Provider package is a popular solution for state management, allowing data to be shared across widgets.",
+      "tip": "Focus on Flutter state management packages.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9013,
+      "question": "What is the role of the BuildContext in Flutter? (Q9013)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Provides widget tree information",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages animations",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "BuildContext provides information about a widget's location in the widget tree, used for navigation and accessing inherited widgets.",
+      "tip": "Focus on Flutter widget tree.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9014,
+      "question": "What is the purpose of the GestureDetector widget in Flutter? (Q9014)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Detects user gestures",
+        "answer_b": "Formats text",
+        "answer_c": "Manages state",
+        "answer_d": "Handles navigation",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "GestureDetector detects user interactions like taps, swipes, and drags, enabling custom gesture handling.",
+      "tip": "Focus on Flutter input handling.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9015,
+      "question": "What is the benefit of using const constructors in Flutter? (Q9015)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Improves performance",
+        "answer_b": "Handles navigation",
+        "answer_c": "Manages state",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Const constructors create immutable widget instances at compile time, reducing rebuilds and improving performance.",
+      "tip": "Focus on Flutter performance optimization.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9016,
+      "question": "What is the purpose of the AnimatedContainer widget in Flutter? (Q9016)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Animates property changes",
+        "answer_b": "Manages state",
+        "answer_c": "Handles navigation",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "AnimatedContainer smoothly animates changes to properties like size, color, or padding over a duration.",
+      "tip": "Focus on Flutter animations.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9017,
+      "question": "What is the purpose of the SafeArea widget in Flutter? (Q9017)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Avoids system UI overlaps",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages animations",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "SafeArea ensures content is not obscured by system UI elements like notches or status bars.",
+      "tip": "Focus on Flutter layout widgets.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9018,
+      "question": "What is the role of the pubspec.yaml file in Flutter? (Q9018)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Manages dependencies and metadata",
+        "answer_b": "Defines UI layouts",
+        "answer_c": "Handles navigation",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "The pubspec.yaml file manages project dependencies, assets, and metadata like app name and version.",
+      "tip": "Focus on Flutter project structure.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9019,
+      "question": "What is the purpose of the InheritedWidget in Flutter? (Q9019)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Shares data across widget tree",
+        "answer_b": "Handles animations",
+        "answer_c": "Formats lists",
+        "answer_d": "Manages navigation",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "InheritedWidget allows data to be shared efficiently with descendant widgets in the widget tree.",
+      "tip": "Focus on Flutter state management.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9020,
+      "question": "What is the purpose of the Key class in Flutter? (Q9020)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Identifies widgets during rebuilds",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages animations",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Keys uniquely identify widgets, helping Flutter preserve widget state during tree rebuilds, especially in lists.",
+      "tip": "Focus on Flutter widget identity.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9021,
+      "question": "What is the purpose of the Riverpod package in Flutter? (Q9021)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Advanced state management",
+        "answer_b": "Handles navigation",
+        "answer_c": "Creates animations",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Riverpod is a modern state management library for Flutter, offering type-safe and scalable solutions.",
+      "tip": "Focus on Flutter state management packages.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9022,
+      "question": "What is the role of the WidgetTester in Flutter? (Q9022)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Tests widget behavior",
+        "answer_b": "Handles navigation",
+        "answer_c": "Manages state",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "WidgetTester is used in Flutter's testing framework to simulate user interactions and verify widget behavior.",
+      "tip": "Focus on Flutter testing.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9023,
+      "question": "What is the purpose of the Platform Channel in Flutter? (Q9023)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Communicates with native code",
+        "answer_b": "Handles animations",
+        "answer_c": "Manages state",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Platform Channels allow Flutter to communicate with native platform code (e.g., Java/Kotlin or Swift) for platform-specific features.",
+      "tip": "Focus on Flutter native integration.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9024,
+      "question": "What is the benefit of using the Sliver widgets in Flutter? (Q9024)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Enables custom scroll effects",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages state",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Sliver widgets, used with CustomScrollView, enable advanced scrollable layouts with effects like parallax or pinned headers.",
+      "tip": "Focus on Flutter scrolling.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9025,
+      "question": "What is the purpose of the ValueNotifier class in Flutter? (Q9025)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Manages simple state changes",
+        "answer_b": "Handles navigation",
+        "answer_c": "Creates animations",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "ValueNotifier is a lightweight state management class that notifies listeners when its value changes.",
+      "tip": "Focus on Flutter state management.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9026,
+      "question": "What is the purpose of the Hero widget in Flutter? (Q9026)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Creates shared element transitions",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages state",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Hero widgets create smooth shared element transitions between screens, animating widgets like images or icons.",
+      "tip": "Focus on Flutter animations.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9027,
+      "question": "What is the benefit of using dependency injection in Flutter? (Q9027)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Improves testability and modularity",
+        "answer_b": "Handles navigation",
+        "answer_c": "Creates animations",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Dependency injection (e.g., via packages like get_it) improves testability, modularity, and maintainability by decoupling dependencies.",
+      "tip": "Focus on Flutter architecture.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9028,
+      "question": "What is the purpose of the Isolate class in Flutter? (Q9028)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Runs tasks in separate threads",
+        "answer_b": "Handles HTTP requests",
+        "answer_c": "Manages state",
+        "answer_d": "Formats text",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "Isolates run tasks in separate threads, enabling concurrent execution for heavy computations without blocking the UI.",
+      "tip": "Focus on Flutter performance.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 9029,
+      "question": "What is the purpose of the CustomPainter class in Flutter? (Q9029)",
+      "description": "A question to test your knowledge in Flutter.",
+      "answers": {
+        "answer_a": "Draws custom graphics on canvas",
+        "answer_b": "Handles navigation",
+        "answer_c": "Manages state",
+        "answer_d": "Formats lists",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answer_index": 0,
+      "explanation": "CustomPainter allows developers to draw custom graphics and shapes on a canvas, used for custom UI elements.",
+      "tip": "Focus on Flutter custom rendering.",
+      "tags": [
+        {
+          "name": "flutter"
+        }
+      ],
+      "category": "Flutter",
+      "difficulty": "Hard"
+    }
+  ]
+}

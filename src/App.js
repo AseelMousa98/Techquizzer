@@ -168,7 +168,7 @@ export default function App() {
   const maxPoints = questionNumbers * 10;
 
   useEffect(function () {
-    fetch(`${process.env.https://quiz-api-4-1va2.onrender.com}/questions`)
+      fetch(`${process.env.REACT_APP_API_URL}/questions`)
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dataReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));
